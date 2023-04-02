@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sahil_sapariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahil_sapariya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahilsapariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilsapariya" height="30" width="40" /></a>
-<a href="https://instagram.com/_sahil_sapariya_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sahil_sapariya_03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sahil sapariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sahil sapariya" height="30" width="40" /></a>
+<a href="https://twitter.com/sahil_sapariya" target="blank"><img align="center" src="https://github.com/sahilsapariya/sahilsapariya/blob/main/twitter%20logo.png" alt="sahil_sapariya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahilsapariya" target="blank"><img align="center" src="https://github.com/sahilsapariya/sahilsapariya/blob/main/linkedin%20logo.png" alt="sahilsapariya" height="30" width="40" /></a>
+<a href="https://instagram.com/_sahil_sapariya_03" target="blank"><img align="center" src="https://github.com/sahilsapariya/sahilsapariya/blob/main/instagram%20logo.png" alt="_sahil_sapariya_03" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sahil sapariya" target="blank"><img align="center" src="https://github.com/sahilsapariya/sahilsapariya/blob/main/leetcode%20logo.png" alt="sahil sapariya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sahil_sapariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil_sapariya" height="30" width="40" /></a>
 </p>
 
