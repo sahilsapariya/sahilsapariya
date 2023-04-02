@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahil_sapariya" target="blank"><img src="https://img.shields.io/twitter/follow/sahil_sapariya?logo=twitter&style=for-the-badge" alt="sahil_sapariya" /></a> </p>
 
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder image" height="350" />
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder image" style="margin: 1rem" height="350" />
 
 - 🌱 I’m currently learning **Blockchain technology and Advance Python**
 
