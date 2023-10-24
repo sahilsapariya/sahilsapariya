@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blockchain technology and Advance Python**
 
-- 👨‍💻 All of my projects are available at [Sahil Portfolio](sahilsapariya03.netlify.app)
+- 👨‍💻 All of my projects are available at [Sahil Portfolio](https://sahilsapariya03.netlify.app)
 
 - 📫 How to reach me **sahilsapariya03@gmail.com**
 
@@ -26,7 +26,6 @@
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/python.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/c-programming.png" alt="c" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
