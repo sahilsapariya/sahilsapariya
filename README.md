@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Sapariya</h1>
-<h3 align="center">A passionate full stack python web developer from India</h3>
+<h3 align="center">A passionate full stack developer and code enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsapariya&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsapariya" /> </p>
 
@@ -7,9 +7,9 @@
 
 <!-- <img height="400" align="center" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="coder image" /> -->
 
-- 🌱 I’m currently learning **Blockchain technology and Advance Python**
+- 🌱 I’m currently contributing to [**SureBank** Organisation](https://github.com/surebank)
 
-- 👨‍💻 All of my projects are available at [Sahil Portfolio](https://sahilsapariya03.netlify.app)
+- 👨‍💻 My portfolio : [Sahil Portfolio](https://sahilsapariya.vercel.app)
 
 - 📫 How to reach me **sahilsapariya03@gmail.com**
 
